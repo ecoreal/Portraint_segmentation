@@ -1,3 +1,14 @@
+<!-- ecoreal-repo-header: pytorch-portrait-segmentation -->
+<div align="center">
+
+<img src="assets/repo-icon.png" width="160" alt="PyTorch Portrait Segmentation icon">
+
+# PyTorch Portrait Segmentation
+
+PyTorch U-Net baseline for portrait segmentation.
+
+</div>
+
 # Portrait Segmentation with PyTorch U-Net
 
 [English](README.md) | [简体中文](README.zh-CN.md)
